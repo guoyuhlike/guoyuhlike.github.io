@@ -17,7 +17,7 @@ tags:
 
 Gy 的 Blog 就这么开通了。
 
-感谢[BYQiu](https://www.jianshu.com/p/e68fba58f75c )在简书上的一篇文章，帮助了我很多。
+感谢[@BYQiu](https://www.jianshu.com/p/e68fba58f75c )在简书上的一篇文章，帮助了我很多。
 
 
 <p id = "build"></p>
