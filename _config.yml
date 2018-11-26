@@ -1,7 +1,7 @@
 # Site settings
 title: 天道酬勤
 SEOTitle: 瑜仔的博客 | Heaven rewards men
-header-img: img/me.jpg
+header-img: img/home-bg.jpg
 email: guoyusuccess@163.com
 description: "Hello World."
 keyword: "Scala | BigData"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/guoyuhlike/guoyuhlike.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Computer Programming is a beauty"
-sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
